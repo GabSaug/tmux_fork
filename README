@@ -1,3 +1,8 @@
+KelpieEXPE usage:
+
+run `sh autgen.sh && ./configure --prefix="/my/path"`, then modify the Makefile to include EXTRA_CFLAGS from
+Makefile.example.
+
 Welcome to tmux!
 
 tmux is a terminal multiplexer: it enables a number of terminals to be created,
